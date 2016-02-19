@@ -1,7 +1,0 @@
-{
-    "repos": "https://github.com/CFETeam/bee.js.git",
-    "version": "v0.5.3",
-    "name": "bee",
-    "main": "bee.js",
-    "dependencies": {}
-}
